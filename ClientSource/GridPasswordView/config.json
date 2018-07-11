@@ -1,0 +1,1 @@
+{"module":"M215_GridPasswordView","type":1,"platform":["android"],"views":[{"name":"GridPasswordView","methods":["onTextChanged"],"props":{"PasswordType":"string","PasswordVisibility":"boolean"}}],"option":[]}
